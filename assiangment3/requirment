@@ -1,0 +1,37 @@
+Assignment 3
+Due Thursday 10/15/2020 by 11:59 PM
+Due date is final
+
+Do not change anything on this document. Paste your solution on this document under ‘Answer’ at the bottom. Do not submit any other format like notepad, pdf, etc. Submit through Canvas.   
+If you have any question please email me at rsiddique@njit.edu
+
+
+
+Read this document all the way to the end before starting your program.
+
+1. Design an HTML document named: Main.html to display the following webpage:
+
+
+ 
+
+
+2. Write a servlet program named: Main.java such that:
+When you enter a name like John Doe in the first and second TextFileds respectively and select the first radio button on the above webpage and click on the submit button, the outcome is the following webpage:
+
+ 
+
+On the other hand if you enter a name like Jane Doe in the first and second TextFileds respectively and check the second radio button on the above webpage and click on the submit button gets the following webpage:
+
+ 
+
+
+You must consider the following cases:
+1. The user does not enter ONLY a first name and/or last name and clicks on the submit button. In that case, your program should display: 
+Please enter full name.
+2. The user does not select a radio button and clicks on the submit button. In that case, your program should display:
+Please select a gender.
+
+
+Note: 
+Name your html document: Main.html.
+Name your servlet class: Main.java
